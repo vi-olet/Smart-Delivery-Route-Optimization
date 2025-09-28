@@ -1,0 +1,22 @@
+SmartDelivery/
+├── src/
+│   ├── api/
+│   │   └── DeliveryApi/
+│   │       ├── Controllers/
+│   │       │   └── RouteController.cs
+│   │       ├── Program.cs
+│   │       ├── appsettings.json
+│   │       └── DeliveryApi.csproj
+│   ├── python/
+│   │   ├── optimize.py
+│   │   ├── setup_db.py
+│   │   └── check_db.py
+│   ├── frontend/
+│   │   └── index.html
+├── data/
+│   ├── delivery.db
+│   ├── routes.geojson
+│   ├── map.html
+├── .gitignore
+├── README.md
+├── requirements.txt
