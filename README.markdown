@@ -28,6 +28,8 @@ VRP, as exemplified in `e4deliver.mos`, is critical to global supply chains, dri
 - .NET 8.0 SDK (`dotnet --version`).
 - VSCode with Python, .NET, and Live Server extensions.
 - SQLite (`sqlite3 --version`, optional for manual DB checks).
+- 
+<img width="1912" height="1073" alt="map png" src="https://github.com/user-attachments/assets/f4fc241e-d165-46a8-b88a-22bed5c789ed" />
 
 ## Setup and Run
 1. **Python Pipeline**:
