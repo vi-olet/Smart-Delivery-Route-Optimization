@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.egg-info/
+*.egg
+
+# .NET
+bin/
+obj/
+*.csproj.user
+*.suo
+*.cache
+*.pidb
+*.userprefs
+
+# Database and generated files
+delivery.db
+routes.geojson
+map.html
+
+# VSCode
+.vscode/
